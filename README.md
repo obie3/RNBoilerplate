@@ -1,6 +1,6 @@
 ![Release](https://img.shields.io/github/v/release/obie3/RNBoilerplate)
 
-# React Native Fintech Starter v10 (Complete – No Missing Pieces)
+# React Native Project Starter Template with SOLID Principle (Complete – No Missing Pieces)
 
 Includes EVERYTHING:
 
