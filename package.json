@@ -8,7 +8,8 @@
     "lint": "eslint .",
     "start": "react-native start",
     "test": "jest",
-    "release": "semantic-release"
+    "release": "semantic-release",
+    "typecheck": "tsc --noEmit"
   },
   "dependencies": {
     "@react-native-firebase/app": "^21.0.0",
