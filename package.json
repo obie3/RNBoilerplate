@@ -36,7 +36,6 @@
     "@react-native/babel-preset": "0.83.1",
     "@react-native/eslint-config": "0.83.1",
     "@react-native/metro-config": "0.83.1",
-    "@react-native/typescript-config": "^0.83.1",
     "@semantic-release/changelog": "^6.0.0",
     "@semantic-release/commit-analyzer": "^11.0.0",
     "@semantic-release/git": "^10.0.0",
